@@ -1,0 +1,6 @@
+{
+  "url": "https://kotmir.tech",
+  "duration": "1m",
+  "vus": 50,
+  "packet_type": "HTTP GET (L7)"
+}
